@@ -1,0 +1,38 @@
+[
+
+    {
+        "id":  "1",
+        "img": " https://static.wixstatic.com/media/4cdf87_da23de8dd2d448e0bb976548bf82ecaf~mv2.jpg/v1/fill/w_446,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-empty-state.jpg",
+        "service_name": "WEBSITE DESIGN"
+
+    },
+
+    {
+        "id":  "2",
+        "img": "https://static.wixstatic.com/media/4cdf87_5a89b2293faf4d98bd23a49e9fafebba~mv2.jpg/v1/fill/w_446,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-empty-state.jpg ",
+        "service_name": "ANDROID DEVELOPMENT"
+
+    },
+    {
+        "id": "3",
+        "img": "https://static.wixstatic.com/media/4cdf87_58a160f6eef142b9b8ddefbd795eb70b~mv2.jpg/v1/fill/w_446,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-empty-state.jpg",
+        "service_name": "SOFTWARE TESTING"
+    },
+    {
+        "id": "4",
+        "img": "https://static.wixstatic.com/media/4cdf87_30830cc2afe3401499f8eaaa2805ac59~mv2.jpg/v1/fill/w_446,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-empty-state.jpg",
+        "service_name": "CLOUD SERVICES"
+    },
+
+    {   
+        "id": "5",
+        "img": "https://static.wixstatic.com/media/4cdf87_30830cc2afe3401499f8eaaa2805ac59~mv2.jpg/v1/fill/w_446,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Image-empty-state.jpg",
+        "service_name": "CLOUD SERVICES"
+    },
+    {
+        "id": "6",
+        "img": "https://www.shutterstock.com/image-vector/flat-responsive-web-design-concept-260nw-227053708.jpg",
+        "service_name": "IOS DEVELOPMENT"
+    }
+]
+
